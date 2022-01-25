@@ -20,10 +20,11 @@ a {
 }
 
 body {
+  font-family: "Outfit", sans-serif;
   background-color: hsl(217, 54%, 11%);
 }
 .hovered:hover {
-  color: hsl(178, 100%, 50%);
+  color: hsl(178, 100%, 50%) !important;
 }
 .main-image {
   background-image: url(./utils/images/image-equilibrium.jpg);
