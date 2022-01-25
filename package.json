@@ -44,6 +44,7 @@
     ]
   },
   "devDependencies": {
-    "@types/styled-components": "^5.1.21"
+    "@types/styled-components": "^5.1.21",
+    "mini-css-extract-plugin": "2.4.5"
   }
 }
